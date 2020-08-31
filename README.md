@@ -1,5 +1,5 @@
-### Hi there 👋
-
+![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=ervan0707&hide_langs_below=1&theme=tokyonight)
+![github stats](https://github-readme-stats-kappa-swart.vercel.app/api?username=ervan0707&show_icons=true&theme=tokyonight)
 <!--
 **ervan0707/ervan0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
